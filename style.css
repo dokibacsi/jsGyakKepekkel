@@ -1,0 +1,8 @@
+.tart:nth-child(2){
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img{
+    flex: 0 0 50%;
+}
